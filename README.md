@@ -2,10 +2,10 @@
 This Mood Ring Theme exercise involved creating a toggle for the user to select different color themes based on their mood.
 
 ## Objective
-Use a querySelector(), change event, callback function, classList.remove, classList.add, and conditional statements to toggle on and off different classes based on if the user is feeling happy, sad, or passionate.
+Use querySelector(), change event, callback function, classList.remove, classList.add, and conditional statements to toggle on and off different classes based on if the user is feeling happy, sad, or passionate.
 
 <br/>
-https://user-images.githubusercontent.com/60168324/152059699-95ce3ef9-0ba6-4266-9f7d-e313ed27a93d.mov
+https://user-images.githubusercontent.com/60168324/152061581-e664226c-664f-4025-ba5b-bfd8c10c7a9b.mov
 
 ## Launch
 
